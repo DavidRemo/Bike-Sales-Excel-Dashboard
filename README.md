@@ -20,11 +20,14 @@ Feel free to customize the project according to your needs and use it as a refer
 
 ### Key insights :
 ✅ The maximum average income of Males is $60,124. So, they purchased bikes more as compared to females who got 7% less average income than males.<br/>
+
 ![image](https://github.com/DavidRemo/Bike-Sales-Excel-Dashboard/assets/68180517/20a549fe-80d7-41de-8300-3d1e04b7caab)
 
 ✅ People in the Middle Age group (31-54 years) purchased 4 times more bikes as compared to the Adolescent and Old age groups.<br/>
+
 ![image](https://github.com/DavidRemo/Bike-Sales-Excel-Dashboard/assets/68180517/0a8ed2ff-c347-406d-bb4e-e96ebd2c4ddd)
 
 ✅ Customers tend to purchase bikes more for shorter commutes (0-1 miles) than longer commutes (10 miles +).<br/>
+
 ![image](https://github.com/DavidRemo/Bike-Sales-Excel-Dashboard/assets/68180517/55a1f18c-102a-4723-bfd6-468ed3ca93cf)
 
