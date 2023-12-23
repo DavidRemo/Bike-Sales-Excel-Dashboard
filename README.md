@@ -5,9 +5,9 @@ This is a Sales Analysis Project that focuses on analyzing bike sales data using
 ### To achieve the goal of this project, I have completed several tasks.
 ✅ Understanding the provided dataset.<br/>
 ✅ Data Cleaning and Preprocessing: The dataset underwent thorough cleaning and preprocessing within Excel to ensure data quality and consistency.<br/>
-    This involved: 
-    - Removing any duplicates, spaces, and special characters, find and replace, and formatting. <br/>
-      &emsp;- Creating custom columns (Age Brackets) to extract additional information from the dataset.<br/>
+    This involved: <br/>
+      - Removing any duplicates, spaces, and special characters, find and replace, and formatting. <br/>
+      - Creating custom columns (Age Brackets) to extract additional information from the dataset.<br/>
 ✅ Pivot Tables and Charts: Utilizing Excel's pivot tables and charting features, I created visualizations to uncover trends and insights related to different aspects of the dataset.<br/>
 ✅ Sales Analysis Dashboard: The project culminates in a visual dashboard created in entirely in Excel with slicers. This interactive dashboard provides an overview of the sales data and allows users to explore key metrics and trends.<br/>
 
